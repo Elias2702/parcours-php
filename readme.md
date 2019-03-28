@@ -1,3 +1,5 @@
+This is a series of assignment in the context of a web development training program.
+
 # PHP
 
 PHP est un outil puissant, il est utilisé pour le développement des sites, partout dans le monde. Grâce à Php un site devient dynamique, c’est à dire que les pages peuvent être générées selon l’internaute, la langue, etc.
